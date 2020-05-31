@@ -1,0 +1,6 @@
+@value dark-font-color from '../../vars.module.css';
+
+.friendList {
+  color: dark-font-color;
+  margin-bottom: 30px;
+}
