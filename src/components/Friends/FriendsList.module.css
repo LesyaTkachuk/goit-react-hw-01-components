@@ -1,4 +1,4 @@
-@value dark-font-color from '../../vars.module.css';
+@value dark-font-color from '../../assets/vars.module.css';
 
 .friendList {
   color: dark-font-color;

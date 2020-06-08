@@ -1,4 +1,4 @@
-@value dark-font-color from '../../vars.module.css';
+@value dark-font-color from '../../assets/vars.module.css';
 
 .statistics {
   width: 300px;

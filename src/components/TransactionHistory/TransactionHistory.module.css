@@ -1,4 +1,4 @@
-@value light-font-color from '../../vars.module.css';
+@value light-font-color from '../../assets/vars.module.css';
 
 .transactionHistory {
   width: 900px;

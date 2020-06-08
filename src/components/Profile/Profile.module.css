@@ -1,5 +1,5 @@
-@value dark-font-color from '../../vars.module.css';
-@value light-font-color from '../../vars.module.css';
+@value dark-font-color from '../../assets/vars.module.css';
+@value light-font-color from '../../assets/vars.module.css';
 
 .profile {
   width: 250px;
